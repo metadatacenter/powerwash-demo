@@ -30,8 +30,8 @@ logging:
       timeZone: UTC
 
 mongoDBConnection:
-  user: mongoadmin
-  password: poweradmin
+  user: ***
+  password: ***
   host: "localhost"
   port: 27017
   database: "powerwash"
